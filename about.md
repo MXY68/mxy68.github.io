@@ -7,7 +7,7 @@ permalink: /about/
 <table>
   <tr>
     <td width="280" valign="top">
-      <img src="{{ '/photo.jpg' | relative_url }}" alt="Xiaoyan Ma"
+      <img src="{{ '/photo.png' | relative_url }}" alt="Xiaoyan Ma"
            style="width: 230px; height: auto; border-radius: 0;">
     </td>
     <td valign="top">
