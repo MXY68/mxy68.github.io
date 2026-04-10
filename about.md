@@ -14,5 +14,5 @@ You can download my CV here: [CV PDF](#)
 
 ## Contact
 
-Email: your-email@purdue.edu  
+Email: ma946@purdue.edu  
 GitHub: [mxy68](https://github.com/mxy68)
