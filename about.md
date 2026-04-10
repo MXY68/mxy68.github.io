@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img src="/assets/images/photo.jpg" alt="Xiaoyan Ma" width="220">
+<img src="{{ '/assets/images/photo.jpg' | relative_url }}" alt="Xiaoyan Ma" width="220">
 I am a Ph.D. student in Electrical and Computer Engineering at Purdue University.
 
 My research interests include federated learning, machine learning security, wireless communications, reconfigurable intelligent surfaces, and integrated communication and sensing.
