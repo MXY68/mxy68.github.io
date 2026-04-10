@@ -31,6 +31,7 @@ permalink: /about/
       <p>
         <strong>Email:</strong> ma946@purdue.edu<br>
         <strong>GitHub:</strong> <a href="https://github.com/mxy68">mxy68</a>
+        <strong>Google Scholar:</strong> <a href="[https://github.com/mxy68](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AIfU4H6JB4utOT_4MHO9Xqj6YFNnMKUhkI9tng9oUA0EpQW9L74SzR3oToKTZaGazk3-3ysv94vtRAWIM5NIcoq1cPqc&user=xUjigqcAAAAJ)">mxy68</a>
       </p>
 
       <p>
