@@ -8,7 +8,7 @@ permalink: /about/
   <tr>
     <td width="260" valign="top">
       <img src="{{ '/photo.jpg' | relative_url }}" alt="Xiaoyan Ma"
-           style="width: 220px; height: 220px; object-fit: cover; border-radius: 50%;">
+           style="width: 220px; height: 220px; object-fit: cover; border-radius: 40%;">
     </td>
     <td valign="top">
       <h2 style="margin-top: 0;">Xiaoyan Ma</h2>
