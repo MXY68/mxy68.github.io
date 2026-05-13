@@ -14,7 +14,7 @@ permalink: /about/
       <h2 style="margin-top: 0;">Xiaoyan Ma</h2>
 
       <p>
-    I am a Ph.D. student in Electrical and Computer Engineering at Purdue University, where I am advised by <a href="https://www.cbrinton.net/" target="_blank" rel="noopener noreferrer">Prof. Christopher G. Brinton</a>.
+    I am a Ph.D. student in Electrical and Computer Engineering at Purdue University, where I am advised by <a href="https://www.cbrinton.net/" target="_blank" rel="noopener noreferrer">Prof. Christopher G. Brinton</a>. I am fortunate to be advised by him and deeply appreciate his guidance and support.
       </p>
 
       <p>
